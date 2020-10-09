@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 18px;
+}
+footer {
+  text-align: center;
+  background: DarkSlateBlue;
+  color: white;
+}
+#timeline {
+  text-align: center;
+  background: lightcyan;
+  padding: 20px 20px;
+}
+#timeline p {
+  text-align: center;
+  font-size: 19px;
+}
+section #cp {
+  padding: 30px 15px 30px 30px;
+}
+section #cp p {
+  text-align: justify;
+}
+#flor,
+#masp {
+  float: right;
+  margin: 10px 0 5px 10px;
+}
+#flor,
+#masp figcaption {
+  padding: 10px 20px;
+}
+#batata {
+  float: left;
+  margin: 10px 15px 0px 10px;
+}
+#batata figcaption {
+  padding: 10px 20px 10px 0;
+}
+
+section #cl {
+  padding: 50px 15px 30px 30px;
+}
+section #cl a:hover {
+  background-color: midnightblue;
+  color: white;
+}
